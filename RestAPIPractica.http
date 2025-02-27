@@ -1,0 +1,6 @@
+@RestAPIPractica_HostAddress = http://localhost:5104
+
+GET {{RestAPIPractica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
